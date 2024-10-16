@@ -1,4 +1,4 @@
-# Smart Glasses for the Visually Impaired
+# Blind Guide - Smart Glasses for the Visually Impaired
 
 ## Overview
 The Smart Glasses for Visually Impaired project aims to enhance the independence and safety of individuals with visual impairments through advanced wearable technology. Traditional mobility aids, such as white canes, provide limited tactile feedback. Our solution integrates real-time obstacle detection, GPS-based navigation, and emergency alerts to offer visually impaired users improved spatial awareness and hands-free assistance.
